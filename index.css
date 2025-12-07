@@ -1,0 +1,29 @@
+body {
+  color: white ;
+  background-color: black;
+  font-style: italic ;
+  text-align: left;
+   h1 {
+   color: white ;
+    font-size: 50pt;
+    text-align: center;
+    font-family: "Sans-serif", Arial;
+}
+  h2 {
+   color: white ;
+    font-size: 25pt;
+    font-style: normal ;
+    text-align: center;
+    }
+    p {
+   color: white ;
+    font-size: 22pt;
+    font-style: normal ;
+    text-align: center;
+    }
+  li {
+   color: white ;
+    font-size: 15pt;
+    font-style: normal ;
+    text-align: left;
+    }
