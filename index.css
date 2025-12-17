@@ -3,6 +3,7 @@ body {
   background-color: black;
   font-style: italic ;
   text-align: left;
+   font-family: "Sans-serif", Arial;
    h1 {
    color: white ;
     font-size: 50pt;
