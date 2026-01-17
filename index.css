@@ -2,7 +2,6 @@ body {
   color: white ;
   background-color: black;
   font-style: italic ;
-  text-align: left;
    font-family: "Sans-serif", Arial;
    h1 {
    color: white ;
@@ -17,8 +16,8 @@ body {
     text-align: center;
     }
  a {
-   color: red ;
-    font-style: normal ;
-    text-align: center;
+  color: red ;
+  font-style: normal ;
+  text-align: center;
     }
 }
